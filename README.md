@@ -8,17 +8,29 @@
 
 ## 학습 데이터
 date: 날짜
+
 precipitation: 강수량(mm)
+
 temp_mean: 평균 기온(℃)
+
 temp_highest: 최고 기온(℃)
+
 temp_lowest: 최저 기온(℃)
+
 PM10: 미세먼지(㎍/㎥)
+
 PM2.5: 초미세먼지(㎍/㎥)
+
 humidity: 습도(%rh)
+
 sunshine_sum: 일조합
+
 sunshine_rate: 일조율
+
 wind_mean: 평균 풍속(m/s)
+
 wind_max: 최대 풍속(m/s)
+
 rentals : 따릉이 대여량
 
 위 자료는 아래 공공 데이터를 바탕으로 제작되었습니다.
